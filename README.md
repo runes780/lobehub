@@ -2,7 +2,7 @@
 
 [![][image-banner]][vercel-link]
 
-# LobeHub
+# LobeHu
 
 LobeHub is the ultimate space for work and life: <br/>
 to find, build, and collaborate with agent teammates that grow with you.<br/>
